@@ -1,0 +1,7 @@
+ THE FINAL LIST FOR FOOD ORDER 
+chapathi
+parotta
+noodles
+fried rice
+ice cream
+The total calories for the meal is 236.000000
